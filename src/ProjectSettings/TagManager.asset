@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SUN
+  - EARTH
+  - MOON
+  - MERCURY
+  - VENUS
+  - MARS
+  - JUPITER
+  - BELT
+  - UPPER_BELT
+  - UPPER_MARS
+  - UPPER_EARTH
+  - PROJECTILE
+  - ENEMYPOSITION
+  - EXPLOSION
+  - ENEMY
+  - WALL
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

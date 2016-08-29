@@ -1,0 +1,52 @@
+### Schritte
+- Sun
+	- Sphere in Scene eingefüg
+	- Positioniert auf (0,0,0)
+	- Bild von Sonne gesucht
+		- Bildname: Map_of_the_full_sun
+	- Bild auf Sphere gezogen
+		- --> neues Material entstanden
+	- Script zum rotieren um die eigene Achse geschrieben
+		- rotateSelf
+			- SunRotation.js
+- Directional Light
+	- auf Position der Sonne gesetzt
+	- X Rotation auf -180 gesetzt
+	- Script zum rotieren um die eigene Achse geschrieben
+		- rotateSelf
+			- SunRotation.js
+- Earth
+	- Sphere in Scene eingefüg
+	- Positioniert auf (0,0,20)
+	- Bild von Erde gesucht
+		- Asset Pack Planet Earth Free gefunden
+	- Earth4kMaterial Asset auf Sphere gezogen
+	- Script zum rotieren um die Sonne geschrieben
+		- rotateAround
+			- EarthRotateAroundSun.js
+	- Script zum rotieren um die eigene Achse geschrieben
+		- rotateSelf
+			- EarthRotation.js
+- Moon
+	- Sphere in Scene eingefüg
+	- Positioniert auf (0,0,28)
+	- Bild von Mond gesucht
+		- Bildname: moon_map_mercator
+	- Bild auf Sphere gezogen
+		- --> neues Material entstanden
+	- Script zum rotieren um die Erde geschrieben
+		- rotateAround
+			- MoonRotateAroundEarth.js
+	- Script zum rotieren um die eigene Achse geschrieben
+		- rotateSelf
+			- MoonRotation.js
+- Main Camera
+	- Positioniert auf (40,1,2)
+	- Y Rotation auf -90
+	- Script für Kamerasteuerung geschrieben
+		- moving
+			- CameraMoving.js
+- Lighting
+	- Skybox aus Asset Pack Planet Earth Free
+		- SkyboxMaterial
+	- Sun auf Directional Light gesetzt

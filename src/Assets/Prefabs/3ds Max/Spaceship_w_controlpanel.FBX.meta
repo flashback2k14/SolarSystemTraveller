@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 64204b0f733760a47925ca516ca9c156
+timeCreated: 1470673811
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ControlPanel
+    100002: ControlPanelDisplayFrame
+    100004: ControlPanelDisplayLeft
+    100006: ControlPanelDisplayLeftText
+    100008: ControlPanelDisplayRight
+    100010: ControlPanelDisplayRightTextStart
+    100012: ControlPanelDisplayRightTextStop
+    100014: ControlPanelTogglePanel1
+    100016: ControlPanelTogglePanel1Green
+    100018: ControlPanelTogglePanel1Red
+    100020: ControlPanelTogglePanel1Text
+    100022: ControlPanelTogglePanel2
+    100024: ControlPanelTogglePanel2Green
+    100026: ControlPanelTogglePanel2Red
+    100028: ControlPanelTogglePanel2Text
+    100030: ControlPanelTogglePanel3
+    100032: ControlPanelTogglePanel3Green
+    100034: ControlPanelTogglePanel3Red
+    100036: ControlPanelTogglePanel3Text
+    100038: ControlPanelTogglePanel4
+    100040: ControlPanelTogglePanel4Green
+    100042: ControlPanelTogglePanel4Red
+    100044: ControlPanelTogglePanel4Text
+    100046: ControlPanelTogglePanel5
+    100048: ControlPanelTogglePanel5Green
+    100050: ControlPanelTogglePanel5Red
+    100052: ControlPanelTogglePanel5Text
+    100054: Spaceship
+    100056: //RootNode
+    400000: ControlPanel
+    400002: ControlPanelDisplayFrame
+    400004: ControlPanelDisplayLeft
+    400006: ControlPanelDisplayLeftText
+    400008: ControlPanelDisplayRight
+    400010: ControlPanelDisplayRightTextStart
+    400012: ControlPanelDisplayRightTextStop
+    400014: ControlPanelTogglePanel1
+    400016: ControlPanelTogglePanel1Green
+    400018: ControlPanelTogglePanel1Red
+    400020: ControlPanelTogglePanel1Text
+    400022: ControlPanelTogglePanel2
+    400024: ControlPanelTogglePanel2Green
+    400026: ControlPanelTogglePanel2Red
+    400028: ControlPanelTogglePanel2Text
+    400030: ControlPanelTogglePanel3
+    400032: ControlPanelTogglePanel3Green
+    400034: ControlPanelTogglePanel3Red
+    400036: ControlPanelTogglePanel3Text
+    400038: ControlPanelTogglePanel4
+    400040: ControlPanelTogglePanel4Green
+    400042: ControlPanelTogglePanel4Red
+    400044: ControlPanelTogglePanel4Text
+    400046: ControlPanelTogglePanel5
+    400048: ControlPanelTogglePanel5Green
+    400050: ControlPanelTogglePanel5Red
+    400052: ControlPanelTogglePanel5Text
+    400054: Spaceship
+    400056: //RootNode
+    2300000: ControlPanel
+    2300002: ControlPanelDisplayFrame
+    2300004: ControlPanelDisplayLeft
+    2300006: ControlPanelDisplayRight
+    2300008: ControlPanelTogglePanel1
+    2300010: ControlPanelTogglePanel1Green
+    2300012: ControlPanelTogglePanel1Red
+    2300014: ControlPanelTogglePanel2
+    2300016: ControlPanelTogglePanel2Green
+    2300018: ControlPanelTogglePanel2Red
+    2300020: ControlPanelTogglePanel3
+    2300022: ControlPanelTogglePanel3Green
+    2300024: ControlPanelTogglePanel3Red
+    2300026: ControlPanelTogglePanel4
+    2300028: ControlPanelTogglePanel4Green
+    2300030: ControlPanelTogglePanel4Red
+    2300032: ControlPanelTogglePanel5
+    2300034: ControlPanelTogglePanel5Green
+    2300036: ControlPanelTogglePanel5Red
+    2300038: Spaceship
+    3300000: ControlPanel
+    3300002: ControlPanelDisplayFrame
+    3300004: ControlPanelDisplayLeft
+    3300006: ControlPanelDisplayRight
+    3300008: ControlPanelTogglePanel1
+    3300010: ControlPanelTogglePanel1Green
+    3300012: ControlPanelTogglePanel1Red
+    3300014: ControlPanelTogglePanel2
+    3300016: ControlPanelTogglePanel2Green
+    3300018: ControlPanelTogglePanel2Red
+    3300020: ControlPanelTogglePanel3
+    3300022: ControlPanelTogglePanel3Green
+    3300024: ControlPanelTogglePanel3Red
+    3300026: ControlPanelTogglePanel4
+    3300028: ControlPanelTogglePanel4Green
+    3300030: ControlPanelTogglePanel4Red
+    3300032: ControlPanelTogglePanel5
+    3300034: ControlPanelTogglePanel5Green
+    3300036: ControlPanelTogglePanel5Red
+    3300038: Spaceship
+    4300000: Spaceship
+    4300002: ControlPanel
+    4300004: ControlPanelDisplayFrame
+    4300006: ControlPanelDisplayRight
+    4300008: ControlPanelDisplayLeft
+    4300010: ControlPanelTogglePanel1
+    4300012: ControlPanelTogglePanel1Red
+    4300014: ControlPanelTogglePanel1Green
+    4300016: ControlPanelTogglePanel2
+    4300018: ControlPanelTogglePanel2Green
+    4300020: ControlPanelTogglePanel2Red
+    4300022: ControlPanelTogglePanel3
+    4300024: ControlPanelTogglePanel3Green
+    4300026: ControlPanelTogglePanel3Red
+    4300028: ControlPanelTogglePanel4
+    4300030: ControlPanelTogglePanel4Green
+    4300032: ControlPanelTogglePanel4Red
+    4300034: ControlPanelTogglePanel5
+    4300036: ControlPanelTogglePanel5Green
+    4300038: ControlPanelTogglePanel5Red
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
